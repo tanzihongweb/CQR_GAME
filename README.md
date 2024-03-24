@@ -1,2 +1,2 @@
 # CQR_GAME
-A Chinese Traditional Game.
+A Chinese Word Game.
